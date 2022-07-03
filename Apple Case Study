@@ -82,13 +82,3 @@ SELECT year,
  ORDER BY 1, 2
  
  
-13. Write a query that includes a column that is flagged "yes" when a player is from California, and sort the results with those players first.
-
-
-
-
- 
- 
- 
- 
-
